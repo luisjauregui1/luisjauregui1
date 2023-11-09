@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!👋
+I'm a 26-year-old with a degree in Computer Systems, which provides a strong foundation in computer science.
+I'm currently focused on backend development, particularly with Node.js and Express, demonstrating my commitment to this field.
+My proficiency in Bash, Python, SQL, and JavaScript showcases a versatile skill set.
+With my educational background and ongoing learning, I'm well on my way to becoming a successful backend developer.
 
 <!--
 **luisjauregui1/luisjauregui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
